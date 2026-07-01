@@ -13,14 +13,6 @@ I architect and implement backend services that power complex, distributed envir
 - **System Integration** – Creating seamless communication patterns between services, devices, and external systems
 - **Cloud-Native Development** – Containerized, orchestrated, and observable systems from the ground up
 
-### Current Role
-**System Design @ Transportes Metropolitanos de Lisboa (TML)**
-- Driving backend architecture and designing scalable systems for urban mobility
-- Leading microservices design and implementation with Java 25 and Spring Boot
-- Architecting event-driven integrations using Solace messaging
-- Managing deployments with Kubernetes and contributing to infrastructure as code
-- Collaborating with Agile teams on architecture reviews, code quality, and system documentation
-
 ---
 
 ## 💡 My Interests
@@ -56,8 +48,6 @@ I'm constantly exploring new approaches to system design, staying updated with t
 ---
 
 ## 🤝 Let's Connect
-
-I enjoy discussing system architecture, sharing knowledge about microservices, and collaborating on interesting backend challenges.
 
 - **LinkedIn:** [joe-cruzatty](https://www.linkedin.com/in/joe-cruzatty/)
 - **Email:** joeguillen16@gmail.com
