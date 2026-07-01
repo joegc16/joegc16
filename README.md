@@ -60,7 +60,7 @@ I'm constantly exploring new approaches to system design, staying updated with t
 I enjoy discussing system architecture, sharing knowledge about microservices, and collaborating on interesting backend challenges.
 
 - **LinkedIn:** [joe-cruzatty](https://www.linkedin.com/in/joe-cruzatty/)
-- **GitHub:** [joegc16](https://github.com/joegc16)
+- **Email:** joeguillen16@gmail.com
 
 ---
 
